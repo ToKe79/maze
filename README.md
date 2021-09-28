@@ -4,3 +4,4 @@ This is bash implementation of famous Commodore oneliner:
 ```
 However it does not go forever, but tries to fill the screen once.
 
+![Screenshot](https://github.com/ToKe79/maze/blob/assets/screenshot.png)
